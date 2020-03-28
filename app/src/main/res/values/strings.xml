@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WidgetApp</string>
+    <string-array name="news_headlines">
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
